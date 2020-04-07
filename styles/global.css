@@ -8,3 +8,7 @@ body{
     background: #222222;
     color: #eeeeee;
 }
+
+.master{
+    background: red;
+}
